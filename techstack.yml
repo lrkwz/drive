@@ -1,7 +1,8 @@
 repo_name: lrkwz/drive
 report_id: beda284383e639d9d5b15a7e36d343cb
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T12:08:41+00:00'
+timestamp: '2024-01-04T14:53:17+00:00'
 requested_by: invakid404
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/lrkwz/drive
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/lrkwz/drive
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lrkwz/drive
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
-  detection_source: drive-gen/Godeps/_workspace/src/golang.org/x/oauth2/.travis.yml
+  detection_source_url: https://github.com/lrkwz/drive/blob/master/.travis.yml
+  detection_source: ".travis.yml"
   last_updated_by: Burcu Dogan
   last_updated_on: 2013-12-29 22:28:49.000000000 Z
